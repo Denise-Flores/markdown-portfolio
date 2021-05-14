@@ -1,1 +1,9 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Virtous*
+
+_Keen to process_
+
+**Sensitive**
+
+__Selfless__
+
+_You **can** combine them_
